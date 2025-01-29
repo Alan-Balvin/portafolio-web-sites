@@ -1,5 +1,4 @@
-import Heading from './signUpList/Heading';
-import Section from './signUpList/Section';
+
 
 import React from "react";
 import "../../App.css";
